@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gen2brain/malgo"
+	"github.com/jKiler/malgo"
 )
 
 func TestCapturePlayback(t *testing.T) {
